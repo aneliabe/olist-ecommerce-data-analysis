@@ -4,5 +4,5 @@ O conjunto de dados analisado pertence à Olist, maior loja de departamentos em 
 
 O conjunto reúne informações de aproximadamente 100 mil pedidos realizados entre setembro de 2016 e outubro de 2018, abrangendo dados sobre vendas, pagamentos, entregas, clientes, produtos e avaliações de satisfação.
 
-Fonte dos dados: https://www.example.com](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data
+Fonte dos dados: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data
 
